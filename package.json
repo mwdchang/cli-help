@@ -1,0 +1,13 @@
+{
+  "name": "cli-help",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "openai": "^4.65.0"
+  }
+}
